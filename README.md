@@ -7,10 +7,11 @@
 1. [https://www.youtube.com/watch?v=sX-FmJL7Wd0](https://www.youtube.com/watch?v=sX-FmJL7Wd0) 
     - The Complete Claude Code Tutorial for Beginners in 2026 - Beginner to Advanced
 
-
-
 2. [https://www.youtube.com/watch?v=QoQBzR1NIqI](https://www.youtube.com/watch?v=QoQBzR1NIqI) 
     - Claude code full course : Build \& Sell
+
+3. [https://www.youtube.com/watch?v=a4_t6vHMwSw](https://www.youtube.com/watch?v=a4_t6vHMwSw).
+    - Claude Features
 
 
 
